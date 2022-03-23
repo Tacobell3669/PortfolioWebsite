@@ -191,7 +191,8 @@ header.sticky ul li a
 }
 .work .content .workArea img
 {
-  max-width: 100%;
+  max-width: 50%;
+  max-height: 50%;
 }
 .contact
 {
