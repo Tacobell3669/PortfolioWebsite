@@ -158,6 +158,8 @@ header.sticky ul li a
   margin: 20px;
   text-align: center;
   transition: 0.5s;
+  margin-left: auto;
+  margin-right: auto;
 }
 .services .content .servicesArea:hover
 {
@@ -178,6 +180,8 @@ header.sticky ul li a
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .work .content .workArea
 {
